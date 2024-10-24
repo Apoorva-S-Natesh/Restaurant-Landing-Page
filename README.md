@@ -19,4 +19,4 @@ You may also see any lint errors in the console.
 
 ## Screenshot
 
-![alt text](/Restaurant-Landing-Page/screenshot.JPG)
+![alt text](screenshot.JPG)
